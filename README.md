@@ -28,6 +28,9 @@ A robust full-stack application to manage employee records, built for enterprise
   - `@CrossOrigin("*")` to support seamless integration with your React frontend.
 
 ---
+## 🌐 Live
+- **Frontend:** [Live on Vercel](https://emsonv.vercel.app/) <!-- Replace with your deployed link -->
+- **Backend:** [Running on Railway](https://emsonv-production.up.railway.app/) <!-- Replace with your 
 
 ## 🧭 API Endpoints
 Implemented in `EmployeeController.java`:
